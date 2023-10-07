@@ -5,8 +5,6 @@
     "default_transform": {
       "name": "default_transform",
       "layout": [
-       [
-  [
     {
       "x": 2.25,
       "a": 7
@@ -125,8 +123,5 @@
     },
     ""
   ]
-]
-    }
-  },
   "sensors": []
 }
